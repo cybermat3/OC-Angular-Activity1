@@ -28,8 +28,6 @@
 /node_modules/q*
 /node_modules/r*
 /node_modules/s*
-/node_modules/t*
-/node_modules/u*
 
 # profiling files
 chrome-profiler-events*.json
