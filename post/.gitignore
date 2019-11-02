@@ -13,11 +13,6 @@
 /node_modules/b*
 /node_modules/c*
 /node_modules/d*
-/node_modules/e*
-/node_modules/f*
-/node_modules/g*
-/node_modules/h*
-/node_modules/i*
 
 # profiling files
 chrome-profiler-events*.json
